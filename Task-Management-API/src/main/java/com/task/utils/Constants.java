@@ -23,7 +23,7 @@ public interface Constants {
     /**
      * Base URL For Stage
      */
-    String RA_BASE_URL = "http://3.145.88.255:8080";
+    String RA_BASE_URL = "http://3.149.235.81:8080";
     String PORT = "/TaskManagementAPI";
 
 
