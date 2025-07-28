@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72703c1f-d4ab-4ffe-b2b9-48670bb7d555" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/CdnConfig/CdnConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/TaskManagementAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/controller/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/controller/RolesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/controller/TeamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/controller/UsersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/controlleradvice/ExceptionHandlerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/dto/BaseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/dto/CommentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/dto/MembersDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/dto/TaskDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/dto/TeamDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/response/GenericListResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/response/GenericResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/response/PaginationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/service/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/service/TeamService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/resources/application-stage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/application-stage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/CdnConfig/CdnConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/TaskManagementAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/controller/CommentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/controller/RolesController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/controller/TaskController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/controller/TeamController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/controller/UsersController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/controlleradvice/ExceptionHandlerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/dto/BaseDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/dto/CommentDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/dto/MembersDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/dto/TaskDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/dto/TeamDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/dto/UserDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/response/GenericListResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/response/GenericResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/response/PaginationResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/service/BaseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/service/CommentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/service/TaskService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/service/TeamService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/classes/com/task/utils/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task-Management-API/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/TaskManagementDAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/enums/TaskPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/enums/TaskStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/model/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/repository/AbstractPersistenceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/repository/TaskCustomRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/repository/TaskCustomRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/repository/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/repository/TeamRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskdb/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TaskManagementDB-exec.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TaskManagementDB.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/TaskManagementDAL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/enums/TaskPriority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/enums/TaskStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/model/BaseEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/model/Comment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/model/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/model/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/model/Team.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/repository/AbstractPersistenceManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/repository/CommentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/repository/RoleRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/repository/TaskCustomRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/repository/TaskCustomRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/repository/TaskRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/repository/TeamRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taskdb/repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2umF9BjWzQwlCoRIyUOzbpMuDSW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CueBallPortal.executor": "Run",
+    "Application.TaskManagementAPI.executor": "Run",
+    "Maven.CueBallDB [clean,install,CueBallDB].executor": "Run",
+    "Maven.CueBallDB [clean,install,CueBallPortal].executor": "Run",
+    "Maven.CueBallDB [clean].executor": "Run",
+    "Maven.CueBallDB [install].executor": "Run",
+    "Maven.CueBallPortal [install].executor": "Run",
+    "Maven.TaskManagementAPI [clean,install...].executor": "Run",
+    "Maven.TaskManagementDB [clean].executor": "Run",
+    "Maven.TaskManagementDB [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/asadz/Desktop/TaskManagement/Task-Management-DAL",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Task-Management-API/src/main/java/com/task" />
+      <recent name="$PROJECT_DIR$/../CueBall-Portal/src/main/resources/templates/room" />
+      <recent name="$PROJECT_DIR$/../CueBall-Portal/src/main/resources/templates/roomCategory" />
+      <recent name="$PROJECT_DIR$/../CueBall-Portal/src/main/resources/templates/task" />
+      <recent name="$PROJECT_DIR$/../CueBall-Portal/src/main/resources/templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.task.controller" />
+      <recent name="com.task.dto" />
+      <recent name="com.task.service" />
+      <recent name="com.task.response" />
+      <recent name="com.cueball.portal.controller" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install CueBallPortal" />
+      <command value="mvn clean install CueBallDB" />
+      <command value="mvn clean install TaskManagementDB" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TaskManagementAPI">
+    <configuration name="CueBallPortal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cueball.portal.CueBallPortal" />
+      <module name="TaskManagementAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cueball.portal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskManagementAPI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.task.TaskManagementAPI" />
+      <module name="TaskManagementAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TaskManagementAPI" />
+      <item itemvalue="Application.CueBallPortal" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CueBallPortal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72703c1f-d4ab-4ffe-b2b9-48670bb7d555" name="Changes" comment="" />
+      <created>1742845688967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742845688967</updated>
+    </task>
+    <servers />
+  </component>
+</project>
